@@ -1,0 +1,6 @@
+{
+  "name": "AI Chef",
+  "description": "AI Chef - Camera ya Gallery se ingredients dikhayein aur Pakistani wa Indian recipes banwayein.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
